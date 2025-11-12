@@ -6,7 +6,7 @@
 
 - id: read_time
   translation:
-    one : "1 分"
+    one: "1 分"
     other: "{{ .Count }} 分"
 
 - id: words
@@ -27,7 +27,7 @@
   translation: "編集"
 
 - id: code_copy
-  translation: "コピー"
+  translation: "copy"
 
 - id: code_copied
-  translation: "コピーされました!"
+  translation: "copied"
