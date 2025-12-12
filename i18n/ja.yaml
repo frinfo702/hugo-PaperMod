@@ -1,8 +1,8 @@
 - id: prev_page
-  translation: "前へ"
+  translation: "back"
 
 - id: next_page
-  translation: "次へ"
+  translation: "next"
 
 - id: read_time
   translation:
